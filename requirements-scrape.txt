@@ -1,0 +1,4 @@
+# Optional: Redfin listing fetch script (scripts/fetch_redfin_sold.py)
+requests==2.32.3
+beautifulsoup4==4.13.3
+urllib3==2.3.0
